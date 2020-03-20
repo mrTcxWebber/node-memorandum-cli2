@@ -1,0 +1,23 @@
+{
+    "name": "memorandum-cli2",
+    "bin": {
+        "t": "./cli.js"
+    },
+    "files": [
+        "cli.js",
+        "db.txt",
+        "index.js"
+    ],
+    "version": "0.0.2",
+    "description": "node-commander",
+    "main": "index.js",
+    "directories": {},
+    "scripts": {},
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {},
+    "dependencies": {
+        "commander": "^5.0.0",
+        "inquirer": "^7.1.0"
+    }
+}
